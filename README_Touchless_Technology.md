@@ -114,8 +114,8 @@ This project introduces a cutting-edge touchless interaction system designed to 
 
 ## Contributors
 
-- **Kuldeep Kumar** (2108400100031)
 - **Yatish Kumar Verma** (2108400100064)
+- **Kuldeep Kumar** (2108400100031)
 
 ## License
 
