@@ -1,0 +1,8 @@
+
+opencv-python==4.5.5.64
+mediapipe==0.9.3.0
+pyautogui==0.9.53
+streamlit==1.19.0
+pynput==1.7.6
+numpy==1.22.4
+pillow==9.5.0
